@@ -84,7 +84,7 @@ export const HeroSection = () => {
     rel="noopener noreferrer"
     className="inline-flex items-center gap-2 border border-white/15 px-6 h-12 rounded-xl"
   >
-    <span className="font-semibold">Download CV</span>
+    <span className="font-semibold">Resume</span>
     <ArrowDown className="size-4" />
   </Link>
   <Link
